@@ -1,2 +1,2 @@
 # autosuggster
-Auto-suggest Module for Solr and other search engines 
+Auto-suggest Module for dtSearch, Solr and other search engines 
